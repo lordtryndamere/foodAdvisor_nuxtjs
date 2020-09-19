@@ -28,7 +28,9 @@ export default {
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
-  modules: [],
+  modules: [
+    '@nuxtjs/bulma'
+  ],
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {},
